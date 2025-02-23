@@ -1,28 +1,26 @@
-# 👋 Hi, I'm Ritu!  
-🚀 **Full-Stack Developer | Open Source Enthusiast**  
+### ✨ **Ritu's GitHub Profile** ✨  
 
-## 🌟 About Me  
-- 🔥 Passionate about **React.js, Next.js, and React Native Web**  
-- 🛠️ Backend skills with **Node.js, Django, and Flask**  
-- 💾 Database expertise in **MySQL (Sequelize ORM)**  
-- 🔐 Authentication: **NextAuth.js, Google OAuth, and manual auth**  
-- ☁️ Cloud & Storage: **AWS S3**  
-- 💳 Payments: **Stripe Integration**  
-- 🎵 Currently building a **music-based mobile app**  
+🌟 **Hey there! I'm Ritu** 👋, a passionate **Full Stack Developer** working with **React, Next.js, Vue.js, TypeScript, and MongoDB**! I love building scalable web applications and exploring new technologies.  
 
-## 📫 Connect with Me  
-🌍 [GitHub](https://github.com/Ritu178) | 💼 [Portfolio](#) | 📝 [Blog](#)  
+---
 
-## 🛠️ Tech Stack  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)  
+### 🚀 **Tech Stack**  
+🌐 **Frontend:** React.js, Next.js, Vue.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap, Sass  
+🛠 **Backend:** Node.js, Express.js, Django REST Framework, Flask  
+📾 **Database:** MongoDB, MySQL  
+☁️ **Cloud & Storage:** AWS S3, Firebase  
+🛠 **Tools & Others:** Git, GitHub, Docker, Postman, Vercel, Netlify  
 
-## 📊 GitHub Stats  
-![Ritu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritu178&show_icons=true&theme=radical)  
+---
+
+### 📊 **GitHub Stats**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritu178&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritu178&layout=compact&theme=tokyonight)  
+
+---
+
+###  **Let's Connect!**  
+🔗 [LinkedIn](#) | 💻 [Portfolio](#) | 🐥 [Twitter](#)  
 
 ## 💡 Fun Fact  
 ⚡ "Coding is like poetry; it’s structured, beautiful, and expressive!"  
